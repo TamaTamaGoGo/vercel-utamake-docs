@@ -1,5 +1,5 @@
 export default {
-  repository: 'https://github.com/TamaTamaGoGo/vercel-utamake-docs/tree/main',
+  repository: 'https://github.com/TamaTamaGoGo/vercel-utamake-docs',
   docsRepository: 'https://github.com/TamaTamaGoGo/vercel-utamake-docs',
   titleSuffix: ' – UtamakeWiki',
   logo: (
