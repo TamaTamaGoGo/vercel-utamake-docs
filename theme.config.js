@@ -1,6 +1,6 @@
 export default {
-  repository: 'https://github.com/shuding/nextra',
-  titleSuffix: ' – Nextra',
+  repository: 'https://github.com/TamaTamaGoGo/vercel-utamake-docs',
+  titleSuffix: ' – UtamakeWiki',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">UtamakeWiki</span>
