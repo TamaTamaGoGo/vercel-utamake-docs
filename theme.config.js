@@ -14,7 +14,7 @@ export default {
       <meta name="msapplication-TileColor" content="#ffffff" />
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta httpEquiv="Content-Language" content="en" />
+      <meta httpEquiv="Content-Language" content="jp" />
       <meta name="description" content="Nextra: the Next.js site builder" />
       <meta name="og:description" content="Nextra: the Next.js site builder" />
       <meta name="twitter:card" content="summary_large_image" />
@@ -23,7 +23,7 @@ export default {
       <meta name="twitter:url" content="https://nextra.vercel.app" />
       <meta name="og:title" content="Nextra: Next.js static site generator" />
       <meta name="og:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <meta name="apple-mobile-web-app-title" content="UtamakeWiki" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
