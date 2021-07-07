@@ -1,7 +1,6 @@
 {
   "index": "About UtamakeWiki",
-  "features": "Features",
-  "docs": "Docs Theme",
-  "blog": "Blog Theme",
-  "advanced": "Advanced"
+  "wiki": "Wiki",
+  "blogs": "Blog",
+  "future": "Future" 
 }
