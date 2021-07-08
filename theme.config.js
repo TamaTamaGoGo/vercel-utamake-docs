@@ -19,7 +19,7 @@ export default {
       <meta name="description" content="UtamakeWiki: UtamakeWiki is official wiki of utamake world." />
       <meta name="og:description" content="UtamakeWiki: UtamakeWiki is official wiki of utamake world" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://raw.githubusercontent.com/TamaTamaGoGo/vercel-utamake-docs/main/public/twitter-image.png?raw=true" />
+      <meta name="twitter:image" content="https://raw.githubusercontent.com/TamaTamaGoGo/vercel-utamake-docs/main/public/UtamakeWiki.png?raw=true" />
       <meta name="twitter:site:domain" content="utamake.minecraftr.us" />
       <meta name="twitter:url" content="https://utamake.minecraftr.us" />
       <meta name="og:title" content="UtamakeWiki: UtamakeWiki is official wiki of utamake world." />
