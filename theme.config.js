@@ -62,6 +62,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
-  footerEditOnGitHubText: 'GitHubでRawデータを見る',
+  footerEditOnGitHubText: 'See/Edit on GitHub',
   footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
 }
