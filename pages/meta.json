@@ -1,8 +1,5 @@
 {
-  "analytics": "Analytics",
-  "status": "Status",
-  "index": "Home",
-  "wiki": "Wiki",
-  "blog": "Blog",
-  "futures": "Future" 
+    "status": "Status",
+    "minecraft": "Minecraft",
+    "ssb": "SuperSmashBros"
 }
